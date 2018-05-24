@@ -12,7 +12,7 @@ Imagine a world in which you can edit Wikipedia by playing Ukulele.
 
 Ukulele has 4 strings and 12 frets, so it can play 48 notes.
 
-    A|---------|
-    E|---------|
-    C|---------|
-    G|---------|
+    A|------------|
+    E|------------|
+    C|------------|
+    G|------------|
