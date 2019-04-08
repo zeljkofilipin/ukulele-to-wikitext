@@ -1,0 +1,13 @@
+ 0 G C E A
+ 1 # # F #
+ 2 A D # B
+ 3 # # G C
+ 4 B E # #
+ 5 C F A D
+ 6 # # # #
+ 7 D G B E
+ 8 # # C F
+ 9 E A # #
+10 F # D G
+11 # B # #
+12 G C E A
