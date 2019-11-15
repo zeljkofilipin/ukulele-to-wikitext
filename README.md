@@ -14,4 +14,4 @@ Ukulele usually has 4 strings and 12 frets. Notes are listed in `notes.txt`. No 
 
 ## How?
 
-Canonical implementation is in [Scratch](https://scratch.mit.edu/projects/345114983/).
+Canonical implementation is in [Scratch](https://scratch.mit.edu/projects/345470655/).
