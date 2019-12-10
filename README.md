@@ -10,7 +10,7 @@ Imagine a world in which you can edit Wikipedia by playing Ukulele.
 
 ## Ukulele
 
-Ukulele usually has 4 strings and 12 frets. Notes are listed in `notes.txt`. No The usual chords are in `chords.txt`. For easy printing they are also available in `chords.pdf`.
+Ukulele usually has 4 strings and 12 frets. Notes are listed in `notes.txt`. The usual chords are in `chords.txt`. For easy printing they are also available in `chords.pdf`.
 
 ## How?
 
